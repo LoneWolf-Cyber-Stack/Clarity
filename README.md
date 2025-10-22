@@ -1,6 +1,6 @@
 # Clarity
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/LoneWolf-Cyber-Stack/Clarity)
 
 A minimalist digital journal for capturing thoughts, quotes, and insights with a focus on a serene reading and writing experience.
 
@@ -91,7 +91,7 @@ This command will build the frontend assets, bundle the worker, and deploy the e
 
 Alternatively, deploy directly from your GitHub repository:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/LoneWolf-Cyber-Stack/Clarity)
 
 ## 📄 License
 
